@@ -1,7 +1,1 @@
-{
-  "versionName": "2.0.1",
-  "versionCode": 19,
-  "changelog": "1. 修复深圳门店查询失败问题\n2. 添加监控时支持多选门店\n3. 新增内置版本更新模块\n4. 持续有货时每2轮重复横幅提醒",
-  "forceUpdate": false,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/woooo00/stock-update@main/stock.apk"
-}
+{"versionName":"2.0.1","versionCode":19,"changelog":"1. 修复深圳门店查询失败问题\n2. 添加监控时支持多选门店\n3. 新增内置版本更新模块\n4. 持续有货时每2轮重复横幅提醒","forceUpdate":false,"apkUrl":"https://cdn.jsdelivr.net/gh/woooo00/stock-update@main/stock.apk"}
