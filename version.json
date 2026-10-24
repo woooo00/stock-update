@@ -1,1 +1,1 @@
-{"versionName":"2.2.6","versionCode":29,"changelog":"修复更新检查CDN缓存问题，改为优先请求GitHub源站","forceUpdate":true,"apkUrl":"https://raw.githubusercontent.com/woooo00/stock-update/887886018bb09339cfd040b457bb38c8ba534cab/stock.apk"}
+{"versionName":"2.2.7-test","versionCode":30,"changelog":"这是一条测试更新推送，验证更新链路是否正常。如果你看到这条弹窗，说明更新通道已修复！","forceUpdate":false,"apkUrl":"https://raw.githubusercontent.com/woooo00/stock-update/main/stock.apk"}
