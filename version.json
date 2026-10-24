@@ -1,1 +1,1 @@
-{"versionName":"2.2.5","versionCode":28,"changelog":"修复设置页版本号显示不一致的问题","forceUpdate":false,"apkUrl":"https://cdn.jsdelivr.net/gh/woooo00/stock-update@ea81f6df4338b3f1cccd411c7c1dcacc7b385551/stock.apk"}
+{"versionName":"2.2.6","versionCode":29,"changelog":"修复更新检查CDN缓存问题，改为优先请求GitHub源站","forceUpdate":true,"apkUrl":"https://raw.githubusercontent.com/woooo00/stock-update/887886018bb09339cfd040b457bb38c8ba534cab/stock.apk"}
