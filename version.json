@@ -1,1 +1,1 @@
-{"versionName":"2.1.0","versionCode":22,"changelog":"1. 新增错误日志导出功能：设置页可一键导出错误日志，每条错误附有原因和解决办法；2. 修复更新时误报「下载失败」的问题","forceUpdate":false,"apkUrl":"https://cdn.jsdelivr.net/gh/woooo00/stock-update@34f74a6e453d5943047d95b9da5a32c4e4ea45a8/stock.apk"}
+{"versionName":"2.2.0","versionCode":23,"changelog":"1. 首次启动强制隐私政策弹窗，同意后才能使用；2. 设置页新增隐私政策入口，明确开发者为周贵炜；3. 合规优化","forceUpdate":false,"apkUrl":"https://cdn.jsdelivr.net/gh/woooo00/stock-update@a447f9f862ee57425cbed6c4afcf7fd4d3a2379c/stock.apk"}
